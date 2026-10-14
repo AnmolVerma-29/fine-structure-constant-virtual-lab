@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physics
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Physics Virtual Lab
+<b> Experiment|     <b> Measurement of Fine Stucture Constant
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This virtual experiment demonstrates the measurement of the fine structure constant using the fine structure splitting of the hydrogen spectrum. It provides an interactive environment to understand the experimental procedure, observe spectral lines, and calculate the fine structure constant.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Anmol Verma
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> Rajkiya Engineering College, Banda 
+<b> Email id|     <b> anmol.av.29@gmail.com  
+<b> Department | Information Technology 
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Anmol Verma | Student | Information Technology |Rajkiya Engineering College, Banda   | anmol.av.29@gmail.com  
 2 | . | . | . | . | .
